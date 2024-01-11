@@ -1,6 +1,5 @@
 # Mini-project-with-JSP
-In this project I have created a page for 
-Register the ID, Login the ID and info page
-after registering the ID it will redirect to login
-page and after login it will redirect to the web page.
-for this project i have used HTML, CSS, Java Servlet, MY sql.
+In this i have used JSP technology to get input from the 
+user and insert it into the database.And also fetch data
+from the database and display to the user.For this project
+i have used HTML, JSP, My sql and Apache Tomcat 10.0v server.
